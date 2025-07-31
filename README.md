@@ -1,10 +1,12 @@
+[![nightly build at 11pm](https://github.com/tau-github-actions-for-testing/tau-digital-bank/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/tau-github-actions-for-testing/tau-digital-bank/actions/workflows/nightly-build.yml)
+
 # Digital Bank
 
 Digital Bank is a sample application that was developed for exploratory purposes to examine development frameworks and techniques. The application is an example online digital banking application with integrations into other services.
  
 ## Getting Started
 
-* Using either an Eclipse IDE or IntelliJ, import the source code as an Existing Maven Project.
+* Using either an Eclipse IDE or IntelliJ, import the source code as an Exis1ting Maven Project.
 
 ## Prerequisites
 
@@ -90,3 +92,4 @@ See the additional list of [contributors](https://github.com/digisic/Digital-Ban
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## Add my unit test changes and disable the one with already exists
